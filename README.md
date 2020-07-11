@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hola 👋, mi nombre es Jorge Leonardo López Martínez. Actualmente estoy aprendiendo sobre programación en _R_ debido al gran interés personal de aplicar ese conocimiento en el área de genética animal. Si deseas contactarme, mi correo es jollopezma@unal.edu.co 📫.
 
 <!--
 **Leo4Luffy/Leo4Luffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
