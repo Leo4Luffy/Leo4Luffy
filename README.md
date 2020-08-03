@@ -3,7 +3,7 @@ Hola :wave:, mi nombre es Jorge Leonardo López Martínez. Hoy en día quiero ap
 <details>
   <summary><b>:memo: Objetivo futuro</b></summary>
   
-Mis objetivos de investigación incluyen adquirir conocimientos en el desarrollo de métodos y software para la investigación interactiva y reproducible en los campos de la biología, la bioestadística, la genética y la ciencia animal.
+Mis objetivos de investigación incluyen adquirir conocimientos en el desarrollo de métodos y software para la investigación interactiva y reproducible en los campos de la genética y las ciencias animales.
 </details>
 
 <!--
