@@ -6,7 +6,7 @@ Hola :wave:, mi nombre es Jorge Leonardo López Martínez. Hoy en día quiero ap
 Mis objetivos de investigación incluyen adquirir conocimientos en el desarrollo de métodos y software para la investigación interactiva y reproducible en los campos de la genética y las ciencias animales.
 </details>
 
-<img src="https://raw.githubusercontent.com/Leo4Luffy/Mi_hoja_de_vida/master/img/Mi_vida_en_meses.png" align="center" width="750" height="450" />
+<img src="https://raw.githubusercontent.com/Leo4Luffy/Mi_hoja_de_vida/master/img/Mi_vida_en_meses.png" align="right" width="750" height="450" />
 
 <!--
 **Leo4Luffy/Leo4Luffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
