@@ -1,11 +1,11 @@
-Hola :wave:, mi nombre es Jorge Leonardo López Martínez. Hoy en día quiero aprender sobre programación en _R_ debido al gran interés personal de aplicar ese conocimiento en el área de la genética y las ciencias animales :tongue:. Si deseas contactarme, <a href="mailto:jollopezma@unal.edu.co">aquí</a> te dejo mi correo.
-
+Hola :wave:, mi nombre es Jorge Leonardo López Martínez. Mis objetivos de investigación incluyen adquirir conocimientos en el desarrollo de métodos y software para la investigación interactiva y reproducible en los campos de la genética y las ciencias animales. Si deseas contactarme, <a href="mailto:jollopezma@unal.edu.co">aquí</a> te dejo mi correo.
+<!--
 <details>
   <summary><b>:memo: Objetivo futuro</b></summary>
   
-Mis objetivos de investigación incluyen adquirir conocimientos en el desarrollo de métodos y software para la investigación interactiva y reproducible en los campos de la genética y las ciencias animales.
-</details>
 
+</details>
+-->
 <img src="https://raw.githubusercontent.com/Leo4Luffy/Mi_hoja_de_vida/master/img/Mi_vida_en_meses.png" align="right" width="750" height="450" />
 
 <!--
