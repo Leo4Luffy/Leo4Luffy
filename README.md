@@ -1,4 +1,15 @@
-Hola :wave:, mi nombre es Jorge Leonardo López Martínez. Mis objetivos de investigación incluyen adquirir conocimientos en el desarrollo de métodos y software para la investigación interactiva y reproducible en los campos de la genética y las ciencias animales. <!--Si deseas contactarme, <a href="mailto:jollopezma@unal.edu.co">aquí</a> te dejo mi correo.-->
+:wave: **Sitio web personal:** [leo4luffy.github.io/](https://leo4luffy.github.io/)
+
+<img align="right" src="https://raw.githubusercontent.com/Leo4Luffy/Repo_TFM/main/logo/logo.gif" width="150">
+
+Hola , mi nombre es Jorge Leonardo López Martínez. Mis objetivos de investigación incluyen adquirir conocimientos en el desarrollo de métodos y software para la investigación interactiva y reproducible en los campos de la genética y las ciencias animales.
+
+Si deseas contactarme, <a href="mailto:jollopezma@unal.edu.co">📫 aquí</a> te dejo mi correo.
+
+### ¿Qué estoy haciendo?
+
+- 😄 Hoy en día me encuentro realizando estudios de máster en el programa de [mejora genética y biotecnología de la reproducción](http://www.mastermejorageneticaanimal.es/) bajo la dirección del prof. dr. [Miguel Pérez Enciso](https://www.icrea.cat/Web/ScientificStaff/Miguel-Perez-Enciso-255).
+
 <!--
 <details>
   <summary><b>:memo: Objetivo futuro</b></summary>
@@ -6,8 +17,6 @@ Hola :wave:, mi nombre es Jorge Leonardo López Martínez. Mis objetivos de inve
 
 </details>
 -->
-<img src="https://raw.githubusercontent.com/Leo4Luffy/Mi_hoja_de_vida/master/img/Mi_vida_en_meses.png" align="right" width="750" height="450" />
-
 <!--
 **Leo4Luffy/Leo4Luffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
