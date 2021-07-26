@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Leo4Luffy/Repo_TFM/main/logo/logo.gif" width="150">
 
-Hola , mi nombre es Jorge Leonardo López Martínez. Mis objetivos de investigación incluyen adquirir conocimientos en el desarrollo de métodos y software para la investigación interactiva y reproducible en los campos de la genética y las ciencias animales.
+Hola, mi nombre es Jorge Leonardo López Martínez. Mis objetivos de investigación incluyen adquirir conocimientos en el desarrollo de métodos y software para la investigación interactiva y reproducible en los campos de la genética y las ciencias animales.
 
 Si deseas contactarme, <a href="mailto:jollopezma@unal.edu.co">📫 aquí</a> te dejo mi correo.
 
