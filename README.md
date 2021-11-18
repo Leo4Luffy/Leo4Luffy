@@ -8,7 +8,7 @@ Si deseas contactarme, <a href="mailto:jollopezma@unal.edu.co">📫 aquí</a> te
 
 ### ¿Qué estoy haciendo?
 
-- 😄 Hoy en día me encuentro realizando estudios de máster en el programa de [mejora genética y biotecnología de la reproducción](http://www.mastermejorageneticaanimal.es/) bajo la dirección del prof. dr. [Miguel Pérez Enciso](https://www.icrea.cat/Web/ScientificStaff/Miguel-Perez-Enciso-255).
+- 😄 Hoy en día me encuentro realizando estudios de máster en el programa de [mejora genética y biotecnología de la reproducción](http://www.mastermejorageneticaanimal.es/).
 
 <!--
 <details>
