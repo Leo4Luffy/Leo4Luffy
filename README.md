@@ -8,7 +8,7 @@ Si deseas contactarme, <a href="mailto:jollopezma@unal.edu.co">📫 aquí</a> te
 
 ### ¿Qué estoy haciendo?
 
-- 😄 Hoy en día me encuentro realizando estudios de máster en el programa de [mejora genética y biotecnología de la reproducción](http://www.mastermejorageneticaanimal.es/).
+- 😄 Hoy en día me encuentro realizando estudios de doctorado en el programa de [ciencia y tecnología de la producción animal](http://www.upv.es/entidades/EDOCTORADO/info/1004425normalc.html).
 
 <!--
 <details>
